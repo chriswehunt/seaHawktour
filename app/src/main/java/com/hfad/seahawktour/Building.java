@@ -1,10 +1,17 @@
 package com.hfad.seahawktour;
 
+import java.lang.reflect.Array;
+import java.util.ArrayList;
+
+@SuppressWarnings("ALL")
 public class Building {
     private int name;
     private int description;
     private int imageResourceId;
     private int thumbnail;
+
+
+
 
 
 
@@ -20,7 +27,7 @@ public class Building {
     };
 
     //Each building has a name, description, and an image resource
-    public Building(int name, int description, int imageResourceId, int thumbnail) {
+    public Building( int name, int description, int imageResourceId, int thumbnail) {
         this.name = name;
         this.description = description;
         this.imageResourceId = imageResourceId;
@@ -45,5 +52,9 @@ public class Building {
     }
 
 
-}
+
+    }
+
+
+
 
