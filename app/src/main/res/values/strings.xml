@@ -1,0 +1,56 @@
+<resources>
+    <string name="app_name">seaHawktour</string>
+    <string name="myName">Christopher Wehunt</string>
+    <string name="moreInfo">https://library.uncw.edu/archives_special/archives</string>
+    <string name="cis">CIS Building</string>
+    <string name="bear">Bear</string>
+    <string name="fisher">Fisher Student Center</string>
+    <string name="burney">Burney</string>
+    <string name="warwick">Warwick</string>
+    <string name="About">About</string>
+    <string name="URL">"For more information visit https://library.uncw.edu/archives_special/archives"></string>
+    <string name="About_info">"Created by Chris Wehunt. UNCW building information and images courtesy of the https://library.uncw.edu/archives_special/archives."></string>
+
+
+    <string name="cis_info">The Computer Information Systems (CIS) building was constructed to house the Information Systems
+        and Operations Management Department from the Cameron School of Business and the Department of Computer Science from
+        the College of Arts and Sciences. The CIS Building, a new 51,731 square-foot state-of-the-art facility on the UNCW campus,
+        opened January 10, 2007 for the new school semester. Work on the facility began on July 29, 2004 with the groundbreaking,
+        and competed in December of 2006. The building cost approximately $12.8 million and was funded by the North Carolina State
+        Bond campaign of 2000.</string>
+    <string name="bear_info">Bear Hall opened at its present site in 1972 as the home for the Business and Economics Departments.
+        Currently, the Departments of Computer Science, Mathematics and Statistics, and Philosophy and Religion occupy classrooms,
+        teaching labs and faculty offices.The College of Arts and Science also resides here. As the inscription on the plaque states
+        Bear Hall is named for,"The original Isaac Bear Building, located at Market and 13th Streets, served as the first home of Wilmington College,outside the public school system.Classes were first held there in 1947."
+        </string>
+    <string name="fisher_info">Groundbreaking for the Herbert and Sylvia Fisher Student Center occurred on August 18, 2004,
+        and two years later on August 24, 2006, UNCW celebrated the grand opening of the Herbert and Sylvia Fisher Student Center.
+        The 70,536 square feet, two-story, center includes a 350 seat, big screen, movie theatre (the Lumina Theatre), a two-story bookstore,
+        a new game room, and a new Varsity Café which features decor and memorabilia from the original Varsity Café. The center also houses a
+        beautiful indoor lighted waterfall named “Rebirth” which was a gift of the UNCW class of 2005-2006. The new building is connected to the
+        Fisher University Union by covered colonnades and is located between the old Union and Westside Hall. The project cost a total of $31 million
+        and was funded by student fees. </string>
+    <string name="burney_info">Occupied in 1985, the Burney Student Support Center contained the University Bookstore, the Parking/Student ID Office and
+        the Department of Communication Studies, which moved to Leutze Hall in 2003. The dedication ceremony for the center was held November 1989. In 2006,
+        the bookstore moved to the new Fisher Student Center. Renovations of the Burney Student Support Center began in 2006, and the building was reopened
+        in March 2008 as mainly a meetings and events facility. The name was shortened to the Burney Center. The renovated Burney Center includes a 9,300
+        square foot ballroom, which seats nearly 600 guests banquet style and close to 1,000 guests auditorium style. The Burney Center also features a colonnade
+        connecting the Burney Center with the new Fisher Student Center. A part of the original construction plans, the colonnade project was cut due to a lack of funds.
+        The Parents Council then decided to raise money for the colonnade to be built and approximately $190,000 was raised to go towards its construction.
+        It was unveiled on April 5, 2008. </string>
+    <string name="warwick_info">The University Center opened in 1991 financed by student fees. Its purpose was to serve as supplementary space to the University Union,
+        house the Post Office, Game Room and the Office of Human Resources. The building has a large multi-purpose ballroom used for both university and public functions.
+        In 1999, a renaming dedication ceremony is when the center took on the official name of Warwick Center. The campus mascot statue, Seahawk is located at the
+        front entrance of the building. </string>
+
+
+    <string-array name="buildings">
+        <item>CIS Building</item>
+        <item>Bear Hall</item>
+        <item>Fisher</item>
+        <item>Burney</item>
+        <item>Warwick</item>
+    </string-array>
+
+
+</resources>
